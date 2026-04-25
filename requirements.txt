@@ -2,3 +2,4 @@ streamLit
 python-dotenv
 langchain-community
 langchain-groq
+langchain-openai
